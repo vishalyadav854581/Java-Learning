@@ -3,7 +3,8 @@
     "java.project.sourcePaths": [
         "Variables-and-Data",
         "Type_Conversion",
+        "Operators",
         "Basics.java",
-        "Operators"
+        "Decision-Making"
     ]
 }
