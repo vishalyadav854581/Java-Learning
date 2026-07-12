@@ -1,5 +1,8 @@
- import java.util.*;
- public class X_Loop_Q1 {
+ /*Reverse of the Number */
+ 
+ 
+import java.util.*;
+public class X_Loop_Q1 {
      public static void main (String [] args){
          
 Scanner sc = new Scanner(System.in);
