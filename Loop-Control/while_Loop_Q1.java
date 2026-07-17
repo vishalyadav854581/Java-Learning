@@ -1,4 +1,4 @@
-public class  while_Loop_Q1 {
+ public class  while_Loop_Q1 {
     public static void main (String [] args ){
 
         int x = 1 ;
