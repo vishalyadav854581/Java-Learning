@@ -1,13 +1,15 @@
 /*  FUNCTION WITH NO ARGUMENTS AND NO RETURN TYPES  */
 
-public class Function_Q4 {
-    public static void add()
+public class Function_Q5 {
+    public static void multi()
     {
         int a = 10 , b = 20 ;
-        int r = a+b ;
-        System.out.println("Sum : " +r);
+        int r = a*b ;
+
+        System.out.println("Multiplication :" +r);
     }
     public static void main(String [] args){
-        add();
+        multi();
+
     }
 }
